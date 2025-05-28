@@ -1,4 +1,4 @@
-✔️본 프로젝트는 데이터를 기반으로 폐업률을 줄이고 창업의 성공률을 높일 수 있는 카페 창업 전략을 제공하고자 하며 지도 기능 구현에 초점을 맞춘다
+✔️**본 프로젝트는 데이터를 기반으로 폐업률을 줄이고 창업의 성공률을 높일 수 있는 카페 창업 전략을 제공하고자 하며 지도 기능 구현에 초점을 맞춘다**
 
 👉 자세한 내용은 ppt참고 (1) 서론 / (2) 지도 구현 / (3) 분석 목적 시각화 / (4) 결론
 
@@ -9,7 +9,10 @@
 - test6.html < 맵 구현
 *map_apikey.json 개인 API_KEY 넣기
 
-✅한 눈에 보기
+
+✅**한 눈에 보기**
+
+
 ![image](https://github.com/user-attachments/assets/1fa61f7b-936f-45d2-82a6-10f022dc4625)
 ![image](https://github.com/user-attachments/assets/baae231f-0308-4c26-a7cf-8aff232614bb)
 
