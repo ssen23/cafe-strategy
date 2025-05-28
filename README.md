@@ -9,4 +9,11 @@
 - test6.html < 맵 구현
 *map_apikey.json 개인 API_KEY 넣기
 
-2025.3.4 ~ 2025.5.27
+✅한 눈에 보기
+![image](https://github.com/user-attachments/assets/1fa61f7b-936f-45d2-82a6-10f022dc4625)
+![image](https://github.com/user-attachments/assets/baae231f-0308-4c26-a7cf-8aff232614bb)
+
+![image](https://github.com/user-attachments/assets/f34a26f2-83b0-448e-a9bc-ca8d5ffa103f)
+![image](https://github.com/user-attachments/assets/75196cc8-9c87-4a05-b6d6-64bc262c652c)
+
+프로젝트 작업 기간: 2025.3.4 ~ 2025.5.27
